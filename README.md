@@ -24,9 +24,3 @@ How It Works:
 Demo Usage
 1 2    +    5 6    =    6 8
 3 4         7 8         10 12
-
-Use Cases
-1. College mathematics assignments
-2. Engineering students learning matrix operations
-3. Developers testing linear algebra logic
-4. Quick matrix calculations without a calculator
